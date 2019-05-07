@@ -1,6 +1,2 @@
-## 使用github搭建自己的博客
-    > 0. 安装node
-    > 1. 在本地创建一个文件夹（例如：blog）
-    > 2. 进入blog文件夹，安装shift + 右键，打开命令行窗口
-    > 3. 
-    >
+## 使用浏览器插件链接google搜索、google邮箱、google应用商店
+    > 0. 打开这个链接[link]https://github.com/focusdroid/google-tool
